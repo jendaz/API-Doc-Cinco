@@ -1,3 +1,3 @@
 # Cinco API
 
-Documentation in [wiki](/wiki)
+Documentation in [wiki](https://github.com/jendaz/API-Doc-Cinco/wiki)
